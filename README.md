@@ -1,9 +1,5 @@
-# Problem_Set3 - Kaylin Kleckner
-Problem Set 3 for BSC4452
+# Problem Set 3 - Kaylin Kleckner
+
 Group Members: Amanda Markee and Julia Bruner
 
-## See `PS3_Kleckner.ipynb` for answers and code
-
-
-
-
+See `PS3_Kleckner.ipynb` for answers and code
